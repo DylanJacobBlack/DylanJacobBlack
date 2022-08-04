@@ -1,1 +1,1 @@
-I can code in Javascript, Ruby, HTML, and CSS. I am most experienced with React and Ruby on Rails. I am currently working on a language learning app that uses React on the frontend and a Rails API on the backend.
+I can code in JavaScript, PHP, Ruby, HTML, and CSS, and I have experience building and deploying web apps with React, Ruby on Rails, jQuery, and Node.js.
